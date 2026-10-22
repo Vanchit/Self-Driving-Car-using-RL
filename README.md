@@ -91,6 +91,4 @@ This example will not work until the correct configuration path exists and compa
 
 Add the project owner's name, contact information, demo video, screenshots, and any related documentation here.
 
-## License
 
-No license is specified in this repository yet. Unless a license is added, reuse and redistribution are subject to the default copyright rules.
