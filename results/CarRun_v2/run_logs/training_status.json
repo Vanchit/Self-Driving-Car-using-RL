@@ -1,0 +1,29 @@
+{
+    "CarBehavior_v2": {
+        "checkpoints": [
+            {
+                "steps": 1183,
+                "file_path": "results\\CarRun_v2\\CarBehavior_v2\\CarBehavior_v2-1183.onnx",
+                "reward": 2.1629632711410522,
+                "creation_time": 1777142630.4726188,
+                "auxillary_file_paths": [
+                    "results\\CarRun_v2\\CarBehavior_v2\\CarBehavior_v2-1183.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1183,
+            "file_path": "results\\CarRun_v2\\CarBehavior_v2.onnx",
+            "reward": 2.1629632711410522,
+            "creation_time": 1777142630.4726188,
+            "auxillary_file_paths": [
+                "results\\CarRun_v2\\CarBehavior_v2\\CarBehavior_v2-1183.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}

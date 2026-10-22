@@ -1,0 +1,47 @@
+{
+    "CarBehavior_v2": {
+        "checkpoints": [
+            {
+                "steps": 499945,
+                "file_path": "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-499945.onnx",
+                "reward": 36.46270164847374,
+                "creation_time": 1777145542.602392,
+                "auxillary_file_paths": [
+                    "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-499945.pt"
+                ]
+            },
+            {
+                "steps": 999943,
+                "file_path": "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-999943.onnx",
+                "reward": 36.735547145207725,
+                "creation_time": 1777148395.7672782,
+                "auxillary_file_paths": [
+                    "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-999943.pt"
+                ]
+            },
+            {
+                "steps": 1000025,
+                "file_path": "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-1000025.onnx",
+                "reward": 36.79896618190565,
+                "creation_time": 1777148395.8007395,
+                "auxillary_file_paths": [
+                    "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-1000025.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1000025,
+            "file_path": "results\\CarRun_v3\\CarBehavior_v2.onnx",
+            "reward": 36.79896618190565,
+            "creation_time": 1777148395.8007395,
+            "auxillary_file_paths": [
+                "results\\CarRun_v3\\CarBehavior_v2\\CarBehavior_v2-1000025.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.28.0",
+        "torch_version": "2.7.1+cpu"
+    }
+}
